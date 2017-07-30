@@ -1,0 +1,20 @@
+{
+  "name": "bitfinex-trades",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Matthew Attanasio",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "async": "^2.5.0",
+    "bitfinex-api-node": "^1.0.2",
+    "crypto": "0.0.3",
+    "dotenv": "^4.0.0",
+    "json2csv": "^3.10.0",
+    "moment": "^2.18.1",
+    "request-promise-native": "^1.0.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
